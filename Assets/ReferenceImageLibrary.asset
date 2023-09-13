@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4635851707881543567
+  m_GuidHigh: 14158166954512293253
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4819422958837774550
+      m_GuidHigh: 9398231858598245009
+    m_SerializedTextureGuid:
+      m_GuidLow: 9760621124520209244
+      m_GuidHigh: 10339854888202711368
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: WGUIlEvA_400x400
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5072426764274707635
+      m_GuidHigh: 4704109763451895980
+    m_SerializedTextureGuid:
+      m_GuidLow: 3816770419841237791
+      m_GuidHigh: 3364967967440084379
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: img_shopLogo
+    m_Texture: {fileID: 0}
